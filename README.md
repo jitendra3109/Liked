@@ -1,6 +1,6 @@
 # Liked
 
-I like that something Awesome by r
+I like that something Awesome :)
 
 >Today I liked
 
