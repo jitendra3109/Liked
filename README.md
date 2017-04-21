@@ -11,3 +11,4 @@ I like that something Awesome :)
 
 ## Aprail,21 2017
 - [The state of the Octoverse 2016](https://octoverse.github.com/)
+- [GitHub broke my 1,000 day streak](https://medium.freecodecamp.com/github-broke-my-1-000-day-streak-6ec0c4c3a7d9)
