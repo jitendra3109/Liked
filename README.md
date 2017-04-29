@@ -15,3 +15,6 @@ I like that something Awesome :)
 
 ## Aprail,25 2017
 - [SPM practise Based on PMBOK 5th Edition](https://www.tutorialspoint.com/pmp-exams/pmp_sample_questions.htm)
+
+## Aprail,29 2017
+- [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
