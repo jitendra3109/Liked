@@ -20,5 +20,8 @@ I like that something Awesome :)
 - [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
 - [The T-Shirt Test](http://futurice.com/blog/the-t-shirt-test)
 
-## APrail,30 2017
+## Aprail,30 2017
 - [Project based Learning](https://github.com/tuvttran/project-based-learning)
+
+## May,6 2017
+- [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
