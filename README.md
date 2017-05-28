@@ -25,3 +25,6 @@ I like that something Awesome :)
 
 ## May,6 2017
 - [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
+
+## May,28 2017
+-[Preparing for Interviews by princeton.edu](https://careerservices.princeton.edu/undergraduate-students/interviews-offers/preparing-interviews)
