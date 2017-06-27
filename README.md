@@ -34,3 +34,6 @@ I like that something Awesome :)
 
 ### June,26 2017
 - [Better Code Reviews](http://www.bettercode.reviews/)
+
+### June,27 2017
+- [Open Source Guide](https://opensource.guide/)
