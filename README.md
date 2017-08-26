@@ -42,4 +42,4 @@ I like that something Awesome :)
 - [Linux,Bash-Handbook](https://github.com/denysdovhan/bash-handbook)
 
 ### Aug, 26 2017
--[Things Which Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
+- [Things Which Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
