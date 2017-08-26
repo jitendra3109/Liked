@@ -43,3 +43,6 @@ I like that something Awesome :)
 
 ### Aug, 26 2017
 - [Things Which Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
+
+### Aug, 26 2017
+- [45 Quick Changes That Help Your Resume Get Noticed](https://www.themuse.com/advice/45-quick-changes-that-help-your-resume-get-noticed-2)
