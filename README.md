@@ -46,3 +46,6 @@ I like that something Awesome :)
 
 ### Aug, 26 2017
 - [45 Quick Changes That Help Your Resume Get Noticed](https://www.themuse.com/advice/45-quick-changes-that-help-your-resume-get-noticed-2)
+
+### Sep, 2 2017
+- [Phone screen question for programmer](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
