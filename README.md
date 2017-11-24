@@ -49,3 +49,9 @@ I like that something Awesome :)
 
 ### Sep, 2 2017
 - [Phone screen question for programmer](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+
+### Nov, 24 2017
+- [Technista Talk: Neha Narkhede - LinkedIn Employee To Confluent Boss](https://www.forbes.com/sites/jumokedada/2017/10/21/technista-talk-neha-narkhede-linkedin-employee-to-confluent-boss/#10a851816884)
+
+
+
